@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "9GRPC4X496.com.leanbase.app",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
