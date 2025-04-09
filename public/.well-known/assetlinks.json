@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.leanbase.app",
+      "sha256_cert_fingerprints": [
+        "30:19:87:05:2C:00:F9:76:29:73:27:03:DE:CB:86:3D:86:BE:A9:93:C1:38:3A:5A:6C:72:69:F6:1D:78:D8:85"
+      ]
+    }
+  }
+]
